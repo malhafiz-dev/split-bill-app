@@ -59,6 +59,7 @@ function App() {
 
   return (
     <div className="app">
+      <h1 className="app-title">SPLIT BILL APP</h1>
       <div className="sidebar">
         <FriendList
           friends={friends}
